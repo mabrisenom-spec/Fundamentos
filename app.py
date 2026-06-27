@@ -6,7 +6,8 @@ st.sidebar.image("images.jpg")
 
 st.sidebar.title("Parámetros")
 
-monto = st.number_input("Ingrese el Monto de su Prestamo"
+monto = st.number_input("Ingrese el Monto de su Prestamo")
+                        
 interes = st.number_input("Ingrese el interes")
  
 tiempo_meses = st.number_input("Ingrese el tiempo en meses")
