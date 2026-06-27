@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Aplicación de Fundamentos Streamlit
+st.title("Aplicación de Fundamentos Streamlit")
 
 st.sidebar.image("images.jpg")
 
